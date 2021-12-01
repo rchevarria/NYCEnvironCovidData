@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/testing.png" width="420" height="340">  <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/testing.png" width="420" height="340">
+<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/testing.png" width="210" height="170">  <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/testing.png" width="210" height="170">
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
