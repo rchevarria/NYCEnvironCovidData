@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-![gas graph](/least-github-pages/assets/testing.png)
+![gas graph](https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/testing.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
