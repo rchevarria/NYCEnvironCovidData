@@ -1,8 +1,9 @@
 ## New York City's Environmental Footprint and COVID-19
 
-You can use the [editor on GitHub](https://github.com/rchevarria/NYCEnvironCovidData/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+People’s lives were disrupted by COVID-19, millions remained home for an
+extended amount of time. This resulted in a pause of daily commutes, outdoor/indoor activities, reduced incomes, and consumerism. I want to use data analysis to see how this situation reduced New Yorker’s environmental footprint, and how future return to normalcy will impact these trends.
 
 ### Markdown
 
