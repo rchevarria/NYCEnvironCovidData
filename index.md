@@ -18,11 +18,11 @@ other.
 
 ### Relevance to NYC
 
-This connects to NYC as it is a very dense city that was largely inactive due to the pandemic and 
-the consequent shutdowns. As a big crowded city, New York's environmental footprint is large, therefore
-this period of time of closure likely had an effect. The data used in this project pertain's to NYC and
-seeks to highlight New Yorker's overall activity before and after the pandemic as well as the city's 
-emission trends. 
+This connects to NYC as it is a very dense city that was largely inactive due to the pandemic 
+and the consequent shutdowns. As a big crowded city, New York's environmental footprint is large, 
+therefore this period of time of closure likely had an effect. The data used in this project 
+pertain's to NYC and seeks to highlight New Yorker's overall activity before and after the 
+pandemic as well as the city's emission trends. 
 
 ---After Visuals---
 
