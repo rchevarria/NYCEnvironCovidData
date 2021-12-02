@@ -7,6 +7,29 @@ extended amount of time. This resulted in a pause of daily commutes, outdoor/ind
 reduced incomes, and consumerism. I want to use data analysis to see how this situation reduced 
 New Yorker’s environmental footprint, and how future return to normalcy will impact these trends.
 
+### Brief Description
+
+This project seeks to view connections between NYC's inactivity/shutdown during the pandemic and 
+its effect on the environment. To establish these connections I am using data bases pertaining to 
+gas prices, stationary emissions, transportation emissions, waste emissions and household 
+expenditures. Through the use of pandas, SQL, regex, matplotlib, and other python methods, I am 
+able to portray these pieces of data in a meaningful way, in which they show connections to each 
+other. 
+
+### Relevance to NYC
+
+This connects to NYC as it is a very dense city that was largely inactive due to the pandemic and 
+the consequent shutdowns. As a big crowded city, New York's environmental footprint is large, therefore
+this period of time of closure likely had an effect. The data used in this project pertain's to NYC and
+seeks to highlight New Yorker's overall activity before and after the pandemic as well as the city's 
+emission trends. 
+
+---After Visuals---
+
+### Correlations
+
+### Analysis
+
 ### Markdown
 
 <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/testing.png" width="210" height="170">  <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/testing.png" width="210" height="170">
