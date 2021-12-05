@@ -42,7 +42,7 @@ measured in GHG**
 <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Transportation.png" width="370" height="290"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/RoadandTrainEmissions.png" width="350" height="270">  
 
 
-<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Stationary.png" width="370" height="290"> 
+<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Stationary.png" width="370" height="290"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/ResidentialandCommercialEmissions.png" width="350" height="270">  
 
 
 
