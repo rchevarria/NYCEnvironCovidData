@@ -62,9 +62,9 @@ Some notes on the visuals above:
 - Waste GHG shows the total tCO2e or GHG emitted by landfills 
 
 
-
-
 ### Correlations
+In order to examine if New Yorker's activity (through gas prices and personal expenditure) is connected to the emissions released (through transportation, stationary and waste emissions), I proceeded to narrow the data to our available years from 2016-2019. This produced the following correlation statistics:
+
 
 ### Analysis
 
