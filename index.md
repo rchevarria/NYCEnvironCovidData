@@ -24,7 +24,7 @@ therefore this period of time of closure likely had an effect. The data used in 
 pertain's to NYC and seeks to highlight New Yorker's overall activity before and after the 
 pandemic as well as the city's emission trends. 
 
-# Activity
+### Visuals
 <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/gasPrices.png" width="420" height="340"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Expenditure.png" width="420" height="340">  
 
 ### Correlations
