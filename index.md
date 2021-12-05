@@ -67,6 +67,20 @@ In order to examine if New Yorker's activity (through gas prices and personal ex
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Correlations.png" width="343" height="213"> 
 
+**The following Correlations were found**:
+
+Correlations between Gas Prices and Emissions:
+- Gas Prices and Waste: 0.8784645621543284
+- Gas Prices and Transportation: 0.544783670867408
+- Gas Prices and Stationary: 0.29700165058116024
+
+Correlations between Personal Expenditures and Emissions:
+- Annual Expenditure and Waste: 0.9879827361084854
+- Annual Expenditure and Transportation: 0.5755099264398865
+- Annual Expenditure and Stationary: 0.2913336962359242
+
+Correlation between our measures of activity (Gas Prices and Expenditures):
+- Gas Prices and Annual Expenditure: 0.830318487087107
 
 ### Analysis
 
