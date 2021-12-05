@@ -25,7 +25,26 @@ pertain's to NYC and seeks to highlight New Yorker's overall activity before and
 pandemic as well as the city's emission trends. 
 
 ### Visuals
+
+**The following visuals show New Yorker's activity from 2016-2021 
+in regards to average yearly prices and per capita expenditure**
+
+
 <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/gasPrices.png" width="420" height="340"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Expenditure.png" width="420" height="340">  
+
+**The following visuals show NYC's Emission Data 
+in regards to Waste, Transportation, and Stationary
+measured in GHG**
+
+<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Waste.png" width="370" height="290"> 
+
+
+<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Transportation.png" width="370" height="290"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/RoadandTrainEmissions.png" width="350" height="270">  
+
+
+<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Stationary.png" width="370" height="290"> 
+
+
 
 ### Correlations
 
