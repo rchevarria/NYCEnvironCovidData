@@ -65,6 +65,8 @@ Some notes on the visuals above:
 ### Correlations
 In order to examine if New Yorker's activity (through gas prices and personal expenditure) is connected to the emissions released (through transportation, stationary and waste emissions), I proceeded to narrow the data to our available years from 2016-2019. This produced the following correlation statistics:
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Correlations.png" width="343" height="213"> 
+
 
 ### Analysis
 
