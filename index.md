@@ -11,7 +11,7 @@ New Yorker’s environmental footprint, and how future return to normalcy will i
 
 This project seeks to view connections between NYC's inactivity/shutdown during the pandemic and 
 its effect on the environment. To establish these connections I am using data bases pertaining to 
-gas prices, stationary emissions, transportation emissions, waste emissions and household 
+gas prices, stationary emissions, transportation emissions, waste emissions and per capita 
 expenditures. Through the use of pandas, SQL, regex, matplotlib, and other python methods, I am 
 able to portray these pieces of data in a meaningful way, in which they show connections to each 
 other. 
@@ -24,7 +24,7 @@ therefore this period of time of closure likely had an effect. The data used in 
 pertain's to NYC and seeks to highlight New Yorker's overall activity before and after the 
 pandemic as well as the city's emission trends. 
 
----After Visuals---
+<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/gasPrices.png" width="420" height="340">
 
 ### Correlations
 
