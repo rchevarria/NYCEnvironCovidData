@@ -27,7 +27,7 @@ pandemic as well as the city's emission trends.
 ### Visuals
 
 **The following visuals show New Yorker's activity from 2016-2021 
-in regards to average yearly prices and per capita expenditure**
+in regards to average yearly gas prices and per capita expenditure**
 
 
 <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/gasPrices.png" width="420" height="340"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Expenditure.png" width="420" height="340">  
@@ -36,7 +36,7 @@ in regards to average yearly prices and per capita expenditure**
 
 
 **The following visuals show NYC's Emission Data 
-in regards to Waste, Transportation, and Stationary
+in regards to Transportation, Stationary, Waste emissions
 measured in GHG**
 
 
@@ -48,6 +48,19 @@ measured in GHG**
 
 <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Waste.png" width="370" height="290"> 
 
+Some notes on the visuals above:
+- Average Gas Prices is shown from 2016-2021. It is the average yearly gas price in NYC. 
+- Per Capita Personal Consumption Expenditures is the value of the goods and services purchased by New York residents.
+- Transportation GHG shows the total tCO2e or GHG of vehicle/road and train transportation emitted by NYC 2016-2019
+  - Road and Train GHG separates the two modes of travel, as road travel far exceeds emissions of train travel
+  - Road travel includes: buses, heavy/medium trucks, passenger cars, and SWCV.
+  - Train travel includes: railway consumption of diesel and electricity 
+- Stationary GHG shows the total tCO2e or GHG emitted by residencies and commercial businesses in NYC 2016-2019
+  - Residential and Commercial GHG separates the two structures, as residential emissions exceed commercial emissions.
+  - Residential GHG's include: different fuel oils, biofuel, electricity, natural gas and steam
+  - Commercial GHG's include: different fuel oils, biofuel, electricity, natural gas and steam   
+- Waste GHG shows the total tCO2e or GHG emitted by landfills 
+
 
 
 
@@ -56,8 +69,6 @@ measured in GHG**
 ### Analysis
 
 ### Markdown
-
-<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/testing.png" width="210" height="170"> &nbsp; <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/testing.png" width="210" height="170">
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
