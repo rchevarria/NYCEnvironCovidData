@@ -24,7 +24,7 @@ therefore this period of time of closure likely had an effect. The data used in 
 pertain's to NYC and seeks to highlight New Yorker's overall activity before and after the 
 pandemic as well as the city's emission trends. 
 
-<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/gasPrices.png" width="420" height="340">
+<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/gasPrices.png" width="420" height="340"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Expenditure.png" width="420" height="340">  
 
 ### Correlations
 
@@ -32,7 +32,7 @@ pandemic as well as the city's emission trends.
 
 ### Markdown
 
-<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/testing.png" width="210" height="170">  <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/testing.png" width="210" height="170">
+<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/testing.png" width="210" height="170"> &nbsp; <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/testing.png" width="210" height="170">
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
