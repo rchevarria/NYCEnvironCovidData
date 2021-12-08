@@ -1,12 +1,12 @@
 ## New York City's Environmental Footprint and COVID-19
 
-<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Environment_COVID.png" width="585" height="290" align="right"> 
+<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Environment_COVID.png" width="535" height="240" align="right"> 
 
 ### Introduction
 <div style="text-align: left"> People’s lives were disrupted by COVID-19, millions remained home for an
 extended amount of time. This resulted in a pause of daily commutes, outdoor/indoor activities, 
 reduced incomes, and consumerism. I want to use data analysis to see how this situation reduced 
-New Yorker’s environmental footprint, and how future return to normalcy will impact these trends. </div>
+New Yorker’s environmental footprint, and how future return to normalcy will impact these trends. </div>&nbsp;&nbsp;
 
 
 ### Brief Description
@@ -17,6 +17,8 @@ gas prices, stationary emissions, transportation emissions, waste emissions and 
 expenditures. Through the use of pandas, SQL, regex, matplotlib, and other python methods, I am 
 able to portray these pieces of data in a meaningful way, in which they show connections to each 
 other. 
+
+<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/NYC_COVID.jpg" width="200" height="200" align="right"> 
 
 ### Relevance to NYC
 
