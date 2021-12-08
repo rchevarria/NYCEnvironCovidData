@@ -1,6 +1,6 @@
 ## New York City's Environmental Footprint and COVID-19
 
-<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Environment_COVID.png" width="685" height="390"> 
+<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Environment_COVID.png" width="585" height="290" align="right"> 
 
 ### Introduction
 
