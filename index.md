@@ -1,9 +1,3 @@
----
-title: Main Page
-template: _config.yml
-filename: index.md
----
-
 ## New York City's Environmental Footprint and COVID-19
 
 <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Environment_COVID.png" width="585" height="290" align="right"> 
@@ -33,6 +27,8 @@ and the consequent shutdowns. As a big crowded city, New York's environmental fo
 therefore this period of time of closure likely had an effect. The data used in this project 
 pertain's to NYC and seeks to highlight New Yorker's overall activity before and after the 
 pandemic as well as the city's emission trends. 
+
+**Information about the datasets and techniques used [here](https://rchevarria.github.io/NYCEnvironCovidData/datasets).**
 
 ### Visuals
 
@@ -70,7 +66,6 @@ measured in GHG**
   - Residential GHG's include: different fuel oils, biofuel, electricity, natural gas and steam
   - Commercial GHG's include: different fuel oils, biofuel, electricity, natural gas and steam   
 - Waste GHG shows the total tCO2e or GHG emitted by landfills 
-
 
 ### Correlations
 In order to examine if New Yorker's activity (through gas prices and personal expenditure) is connected to the emissions released (through transportation, stationary and waste emissions), I proceeded to narrow the data to our available years from 2016-2019. This produced the following correlation statistics:
