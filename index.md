@@ -1,3 +1,9 @@
+---
+title: Main Page
+template: _config.yml
+filename: index.md
+---
+
 ## New York City's Environmental Footprint and COVID-19
 
 <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Environment_COVID.png" width="585" height="290" align="right"> 
@@ -11,12 +17,12 @@ New Yorker’s environmental footprint, and how future return to normalcy will i
 &nbsp;
 ### Brief Description
 
-This project seeks to view connections between NYC's inactivity/shutdown during the pandemic and 
-its effect on the environment. To establish these connections I am using data bases pertaining to 
-gas prices, stationary emissions, transportation emissions, waste emissions and per capita 
-expenditures. Through the use of pandas, SQL, regex, matplotlib, and other python methods, I am 
-able to portray these pieces of data in a meaningful way, in which they show connections to each 
-other. 
+This project hypothesizes that there is a connections between NYC's inactivity/shutdown during the pandemic and 
+its effect on the environment. To establish these connections I will be using databases pertaining to 
+gas prices and per capita expenditures to view New Yorker's activity trends along with the city's stationary, 
+transportation, and waste emission trends. Through powerful tools such as pandas, SQL, regex, matplotlib, and 
+other python methods, I am able to portray these pieces of data in a meaningful way, in which they show connections 
+to each other and finally compute the correlations between them. 
 
 <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/NYC_COVID.jpg" width="200" height="200" align="right"> 
 
@@ -52,7 +58,7 @@ measured in GHG**
 
 <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Waste.png" width="370" height="290"> 
 
-Some notes on the visuals above:
+### Notes on the Visual above and the Data it derives from:
 - Average Gas Prices is shown from 2016-2021. It is the average yearly gas price in NYC. 
 - Per Capita Personal Consumption Expenditures is the value of the goods and services purchased by New York residents.
 - Transportation GHG shows the total tCO2e or GHG of vehicle/road and train transportation emitted by NYC 2016-2019
