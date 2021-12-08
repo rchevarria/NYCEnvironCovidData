@@ -1,5 +1,7 @@
 ## New York City's Environmental Footprint and COVID-19
 
+<img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Environment_COVID.png" width="685" height="390"> 
+
 ### Introduction
 
 People’s lives were disrupted by COVID-19, millions remained home for an
