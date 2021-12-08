@@ -3,11 +3,11 @@
 <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/Environment_COVID.png" width="585" height="290" align="right"> 
 
 ### Introduction
-
-People’s lives were disrupted by COVID-19, millions remained home for an
+<div style="text-align: justify"> People’s lives were disrupted by COVID-19, millions remained home for an
 extended amount of time. This resulted in a pause of daily commutes, outdoor/indoor activities, 
 reduced incomes, and consumerism. I want to use data analysis to see how this situation reduced 
-New Yorker’s environmental footprint, and how future return to normalcy will impact these trends.
+New Yorker’s environmental footprint, and how future return to normalcy will impact these trends. </div>
+
 
 ### Brief Description
 
