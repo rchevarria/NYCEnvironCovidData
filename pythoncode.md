@@ -3,6 +3,31 @@
 [Main Project Page](https://rchevarria.github.io/NYCEnvironCovidData/)
 
 
+```
+f_gas = pd.read_csv("NY_GasPrices.csv", skiprows=2)
+df_gas = df_gas.iloc[:-1, :]    #Last empty row is dropped
+
+#Creating Year Column
+gas_year = []
+for i in df_gas['Date']:
+    gas_year.append(int(i[4:8]))
+
+df_gas['Year'] = gas_year
+
+#df_new will only contain the Year column and Gas prices, from 2016 to present
+q_gas_1 = 'SELECT Year, "New York City Regular All Formulations Retail Gasoline Prices (Dollars per Gallon)" AS  GasPrices FROM df_gas WHERE Year >= 2016 and Year <= 2019'
+gas = psql.sqldf(q_gas_1)
+dfGas_Result = pd.DataFrame(gas)
+
+#df_new will now be grouped by the year and the average price is computed for each year
+q_2 = 'SELECT Year, AVG(GasPrices) as AvgGasPrices FROM dfGas_Result GROUP BY Year'
+avgGas = psql.sqldf(q_2)
+dfGas_Result = pd.DataFrame(avgGas)
+
+#print(dfGas_Result)
+
+```
+
 
 ### Markdown
 
