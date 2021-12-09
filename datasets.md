@@ -12,6 +12,19 @@ The NYC gas dataset provided by the eia, provides New York City's Regular all fo
 
 ### Techniques
 
-In order to 
+In order to narrow the data to be able to find connections between our activity data (gas & expenditures) and our GHG emissions data (stationary, transportation, & waste) I decided to maintain our datasets within the years 2016 and 2019. To maintain a uniformly (x = year and y = dependent piece of data) structure for the visuals and later correlation findings, I utilized pandas, SQL, regex, matplotlib along with other python methods to reduce the number of columns/rows that contained irrelevant or useless information. 
 
+***NYC Gas Prices:***
+In the case of NYC gas prices dataset I created a new dataframe that stores the year and the corresponding year's average gas price. To do this SQL was used to format and filter the desired years, and the 12 months were grouped by year to compute the average. (for example, in 2016 the average gas price was $2.13)
+
+***NYC Per Capita Personal Expenditures:***
+For NYC expenditure (NYPCEPC dataset I created a new dataframe that formats and stores the year and the corresponding year's average citizen expenditure.(for example in 2016 the average citizen spent $45202) 
+
+***NYC Waste Emissions:***
+For NYC Waste emissions dataset I created a new dataframe that formats and stores the year and the corresponding year's emissions produced by waste or more specifically solid waste/landfills. To do this, regex was used to filter out the years from the dataset among removing empty spaces and labels that would have conflicted in creating our visuals. (for example in 2016 the total waste GHG emissions was 1893833.414 GHG (tCO₂e))
+
+***NYC Transportation Emissions:***
+For NYC Transportation emissions dataset I created a new dataframe that formats and stores the year and the corresponding year's emissions produced by modes of transportation, more specifically I narrowed it down to categories "on-road" which includes buses, heavy duty trucks, medium duty trucks, passenger cars and SWCV; and "railways" which includes the diesel and electricity used by trains. To do this, SQL was used to filter out the years and the desired categories. For this dataset two visuals were created, one that showed the totals for road and train emissions separately, and another one that showed total emissions produced by both modes of transportation. This was done to highlight road transportation far outweighing the amount of emissions produced by train transportation.
+
+***NYC Stationary Emissions:***
 
