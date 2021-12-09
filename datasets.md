@@ -1,4 +1,4 @@
-## Data sets and Techniques
+## Datasets and Techniques
 
 [Main Project Page](https://rchevarria.github.io/NYCEnvironCovidData/)
 
