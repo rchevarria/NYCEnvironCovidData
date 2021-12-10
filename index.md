@@ -101,6 +101,13 @@ Generally through the visuals shown above almost all elements showed growth from
 
 Overall this study has shown what environmental science has repeatedly proven - that more spending and interaction with the economy/society leads to more emissions/pollution. 
 
-This project analyzed data within a relatively short timeframe (2016-2019) yet our activity monitoring data and our emissions data proved to be very dynamic. This leads to a possible conclusion regarding trends during COVID-19. Due to the pandemic gas prices plummeted as the economy was largely shut down and people remained home. Tied to the very dynamic trends we found, it can be predicted that the months/year of closure in NYC lead to less overall emissions and pollution.   
+This project analyzed data within a relatively short timeframe (2016-2019) yet our activity monitoring data and our emissions data proved to be very dynamic. This leads to a possible conclusion regarding trends during COVID-19. Due to the pandemic gas prices plummeted as the economy was largely shut down and people remained home. Tied to the very dynamic trends we found, it can be predicted that the months/year of closure in NYC lead to less overall emissions and pollution. 
+
+**Scientific Research has already began on the effects of COVID-19 closures and our Environment:**
+
+From the _New York Daily News:_ Columbia University researchers are monitoring pollutant levels in Harlem and found 10% drops in carbon dioxide and methane in March, along with a shocking 50% plunge in carbon monoxide and levels of PM 2.5, the particulate matter that reduces visibility and causes an assortment of health issues, are down about 20% over the last month.
+“There’s no doubt reducing the amount of vehicle miles traveled last month had an impact in air quality in the region," said Dan Westervelt, an associate research scientist at Columbia. "There definitely does appear to be a decrease (in pollutants).”
+
+
 
 
