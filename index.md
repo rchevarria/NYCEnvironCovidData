@@ -109,5 +109,3 @@ From the _New York Daily News:_ Columbia University researchers are monitoring p
 “There’s no doubt reducing the amount of vehicle miles traveled last month had an impact in air quality in the region," said Dan Westervelt, an associate research scientist at Columbia. "There definitely does appear to be a decrease (in pollutants).”
 
 
-
-
