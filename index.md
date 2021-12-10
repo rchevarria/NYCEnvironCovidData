@@ -32,6 +32,8 @@ pandemic as well as the city's emission trends.
 
 **Python Programs that produced visualizations and correlation data [here](https://rchevarria.github.io/NYCEnvironCovidData/pythoncode).**
 
+**Citations [here](https://rchevarria.github.io/NYCEnvironCovidData/citations).**
+
 ### Visuals
 
 **The following visuals show New Yorker's activity from 2016-2021 
