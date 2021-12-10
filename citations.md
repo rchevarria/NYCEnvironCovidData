@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/rchevarria/NYCEnvironCovidData/gh-pages/citations.jpeg" width="418" height="230" align="center" background-color:transparent> 
 
-- New York City Regular All Formulations Retail Gasoline Prices (Dollars per Gallon), [https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=emm_epmr_pte_y35ny_dpg&f=m]
+- New York City Regular All Formulations Retail Gasoline Prices (Dollars per Gallon), [https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=emm_epmr_pte_y35ny_dpg&f=m](https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=emm_epmr_pte_y35ny_dpg&f=m)
 
 - Per capita personal consumption expenditures: Total for New York. FRED. (2021, October 8). Retrieved December 9, 2021, from [https://fred.stlouisfed.org/series/NYPCEPC. ]
 
