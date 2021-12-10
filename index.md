@@ -32,7 +32,7 @@ pandemic as well as the city's emission trends.
 
 **Python Programs that produced visualizations and correlation data [here](https://rchevarria.github.io/NYCEnvironCovidData/pythoncode).**
 
-**Citations [here](https://rchevarria.github.io/NYCEnvironCovidData/citations).**
+**Citations and Resources [here](https://rchevarria.github.io/NYCEnvironCovidData/citations).**
 
 ### Visuals
 
@@ -92,4 +92,15 @@ Correlation between our measures of activity (Gas Prices and Expenditures):
 - Gas Prices and Annual Expenditure: 0.830318487087107
 
 ### Analysis
+
+The gas prices dataset is the most important in analyzing our population’s consumption, usage, and general demand. This allows us to draw conclusions on how much New Yorkers are driving, their daily life activity as we went into quarantine, and will show their activity as we return to ordinary commutes and trips. Gas prices also signal economic changes as New Yorkers can spend more and are generally more involved in society’s economy. Important notes on gas patterns. If gas prices decrease, generally supply is surpassing the demand, which means people are driving less / buying less gas. (This pattern is seen in gas prices during the summer versus the winter: gas prices increase during the summer as more people drive and decrease in the winter as people generally drive less.) It is also important to keep in mind that gas prices may fluctuate due to external factors other than normal market behavior, such as new policies, oil leaks etc. Viewing the yearly average instead of specific pin points helps with these external factors. 
+
+Gas prices are strongly correlated to our second activity monitor - Expenditures (correlation: 0.83), although a much smaller dataset, it is the per capita personal consumption expenditures of the average New Yorker each year. Gas Prices and Expenditure are both related in signaling how much income the average New Yorker had and was able to spend. 
+
+Generally through the visuals shown above almost all elements showed growth from 2016 to 2019. Some such as our transportation and stationary data spiking in between with its highest points being in 2018 (it is important to take into consideration subgroups such as road travel vs. train travel which greatly differ). Among our emissions data we saw that waste GHG was very closely tied to our activity monitors, a correlation of 0.87 between gas prices and waste, and perhaps one of the most surprising and strongest correlation of 0.98 between expenditures and waste. 
+
+Overall this study has shown what environmental science has repeatedly proven - that more spending and interaction with the economy/society leads to more emissions/pollution. 
+
+This project analyzed data within a relatively short timeframe (2016-2019) yet our activity monitoring data and our emissions data proved to be very dynamic. This leads to a possible conclusion regarding trends during COVID-19. Due to the pandemic gas prices plummeted as the economy was largely shut down and people remained home. Tied to the very dynamic trends we found, it can be predicted that the months/year of closure in NYC lead to less overall emissions and pollution.   
+
 
