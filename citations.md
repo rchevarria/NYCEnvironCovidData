@@ -18,7 +18,7 @@
 
 - Style sheets reference. Style sheets reference - Matplotlib 3.5.0 documentation. (n.d.). Retrieved December 9, 2021, from [https://matplotlib.org/stable/gallery/style_sheets/style_sheets_reference.html. ](https://matplotlib.org/stable/gallery/style_sheets/style_sheets_reference.html)
 
-- CSCI 39542: Data Science, hunter college. (n.d.). Retrieved December 10, 2021, from [https://stjohn.github.io/teaching/data/fall21/. ](https://stjohn.github.io/teaching/data/fall21/)
+- CSCI 39542: Data Science, hunter college. (n.d.). Retrieved December 9, 2021, from [https://stjohn.github.io/teaching/data/fall21/. ](https://stjohn.github.io/teaching/data/fall21/)
 
 _Special thank you to Professor Katherine St. John and the CSCI 395-42 team for teaching this course at Hunter College and providing us with concepts, tools, and resources necessary in our Computer Science career more specifically in Data Science allowing us to conduct research and projects like the one presented here._
 
